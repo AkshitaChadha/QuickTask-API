@@ -30,7 +30,7 @@ Thumbs.db
 */migrations/__pycache__/
 */migrations/*.py[cod]
 */migrations/*.py
-
+__pycache__/
 # Static/Media
 staticfiles/
 media/
